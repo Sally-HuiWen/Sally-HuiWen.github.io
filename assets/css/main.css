@@ -63,6 +63,7 @@ mark {
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
+	
 }
 
 input, select, textarea {
@@ -100,7 +101,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		line-height: 1.85em;
-		color: #888;
+		color: black;
 		font-weight: 300;
 		font-size: 13pt;
 	}
